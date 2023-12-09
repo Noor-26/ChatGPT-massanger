@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { HiPencilAlt } from "react-icons/hi";
 const NewChat = () => {
